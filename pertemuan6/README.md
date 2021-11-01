@@ -1,0 +1,1 @@
+#include<iostream> -> adalah sebuah prosesor pengarah yang mengatakan kepada kompiler untuk meletakan kode dari header file iostream kedalam program.
