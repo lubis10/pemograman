@@ -17,10 +17,10 @@ int main(){
     cout<<"Pengurangan = "<<hasil<<endl;
 
     hasil = a*b;
-    cout<<"Pembagian = "<<hasil<<endl;
+    cout<<"Perkalian = "<<hasil<<endl;
 
     hasil = a/b;
-    cout<<"Perkalian = "<<hasil<<endl;
+    cout<<"Pembagian = "<<hasil<<endl;
 
     return 0;
 }
